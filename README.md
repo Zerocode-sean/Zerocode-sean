@@ -37,6 +37,8 @@ I am actively developing skills in **cloud infrastructure, CI/CD, agentic AI wor
 - Linux server administration
 - AWS fundamentals (Cloud Practitioner path)
 - Infrastructure monitoring concepts (FTTH systems)
+- Monotering with prometheus and Grafana
+
 
 ### Frontend (Supportive)
 - HTML5, CSS3
